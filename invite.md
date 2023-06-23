@@ -1,1 +1,3 @@
-[Join Krypton's Offical Discord Server](https://discord.gg/WcHVREtEqH)
+[<kbd> <br> Krypton Offical Discord Server <br> </kbd>][Link]
+
+[Link]: # 'https://discord.gg/WcHVREtEqH'
