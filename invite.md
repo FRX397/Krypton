@@ -1,3 +1,3 @@
-[<kbd> <br> Krypton Offical Discord Server <br> </kbd>][Link]
+[<kbd> <br>Krypton Offical Discord Server <br> </kbd>][Link]
 
-[Link]: # 'https://discord.gg/WcHVREtEqH'
+[Link]: https://discord.gg/WcHVREtEqH
