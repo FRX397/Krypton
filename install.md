@@ -1,13 +1,13 @@
 <details>
   <summary>installation</summary>
 
-> visit [Krypton's Offical Website](https://krteam.vercel.app)
+> visit [Official Krypton Website](https://kryteam.com)
 >
 > Download
 >
 > Free Download
 >
-> install the file (file size 137 MB)
+> install the file (file size 127 MB)
 >
 > ------
 </details>
